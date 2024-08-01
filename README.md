@@ -1,4 +1,4 @@
-# Project Documentation: PERN Stack E-commerce Application
+# Project Documentation: My CSS
 
 ## Overview
 "my CSS" is a platform designed for users to upload and showcase their projects built with HTML, CSS, and JavaScript. The primary goal is to provide a space for users to present their mini-projects online, making it easy to share with others or revisit their work in the future. The application is developed using the PERN stack (PostgreSQL, Express.js, React.js, and Node.js) and is hosted on Render. You can view the live application.[My CSS](https://my-css.onrender.com/)
