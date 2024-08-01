@@ -18,17 +18,20 @@ const UserProfile = () => {
   };
 
   const handleSubmit = async (e) => {
+    e.preventDefault();
     try {
       const response = await axios.put(`${apiUrl}/api/userLinks`, user, {
         headers: {
           Authorization: `Bearer ${accessToken}`,
         },
       });
+      window.location.reload();
       console.log("Form submitted", response.data);
     } catch (error) {
       console.error("Error updating user", error);
     }
   };
+  
 
   useEffect(() => {
     getUser(setUser);
