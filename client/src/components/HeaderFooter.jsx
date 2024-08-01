@@ -110,7 +110,7 @@ const HeaderFooter = () => {
           </div>
         </div>
         {navBarVisible ? null : (
-          <a href="" className="float-right">
+          <a href="https://github.com/rishavPoudelZ/my_css" className="float-right">
             <i
               className="fa-brands fa-github text-4xl hover:cursor-pointer"
               style={{ color: "#ffffff" }}
