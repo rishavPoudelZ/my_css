@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #000000;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    width: 100%;
+}
+
+.indie-flower-regular {
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.gupter-regular {
+font-family: "Gupter", serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.gupter-medium {
+font-family: "Gupter", serif;
+font-weight: 500;
+font-style: normal;
+}
+
+.gupter-bold {
+font-family: "Gupter", serif;
+font-weight: 700;
+font-style: normal;
+}
+  
