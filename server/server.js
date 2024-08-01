@@ -16,14 +16,14 @@ app.use(
   csp({
     directives: {
       defaultSrc: ["'self'"],
-      scriptSrc: ["'self'", "'unsafe-inline'"],
-      styleSrc: ["'self'", "'unsafe-inline'"],
-      imgSrc: ["'self'", "data:"],
-      connectSrc: ["'self'"],
+      scriptSrc: ["'self'", "'unsafe-inline'" , 'https://my-css.onrender.com'],
+      styleSrc: ["'self'", "'unsafe-inline'" , 'https://my-css.onrender.com'],
+      imgSrc: ["'self'", "data:" , 'https://my-css.onrender.com'],
+      connectSrc: ["'self'" , 'https://my-css.onrender.com'],
       fontSrc: ["'self'"],
       objectSrc: ["'none'"],
       mediaSrc: ["'self'"],
-      frameSrc: ["'self'"],
+      frameSrc: ["'self'" , 'https://my-css.onrender.com'],
     },
   })
 );

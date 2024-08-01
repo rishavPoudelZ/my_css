@@ -1,6 +1,6 @@
 [
     {
-      "origin": ["http://localhost:5173"],
+      "origin": ["https://my-css.onrender.com"],
       "responseHeader": ["Content-Type"],
       "method": ["GET", "HEAD", "OPTIONS"],
       "maxAgeSeconds": 3600
