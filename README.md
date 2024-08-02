@@ -1,7 +1,7 @@
 # Project Documentation: My CSS
 
 ## Overview
-"my CSS" is a platform designed for users to upload and showcase their projects built with HTML, CSS, and JavaScript. The primary goal is to provide a space for users to present their mini-projects online, making it easy to share with others or revisit their work in the future. The application is developed using the PERN stack (PostgreSQL, Express.js, React.js, and Node.js) and is hosted on Render. You can view the live application. [My CSS](https://my-css.onrender.com/)
+"my CSS" is a platform designed for users to upload and showcase their projects built with HTML, CSS, and JavaScript. The primary goal is to provide a space for users to present their mini-projects online, making it easy to share with others or revisit their work in the future. The application is developed using the PERN stack (PostgreSQL, Express.js, React.js, and Node.js) and is hosted on Render. You can view the live application. [My CSS](https://my-css.onrender.com/) (It might take 50 sec to load the server after it has been inactive for a while according to render.com)
 
 The project is structured into two main parts: the client side and the server side. The client side is built using React and styled with Tailwind CSS, initiated with Vite. The server side is constructed with Node.js and Express.js, incorporating JWT authentication for authenticating users.
 
