@@ -5,6 +5,10 @@
 
 The project is structured into two main parts: the client side and the server side. The client side is built using React and styled with Tailwind CSS, initiated with Vite. The server side is constructed with Node.js and Express.js, incorporating JWT authentication for authenticating users.
 
+## Preview Video
+Here is an overview video of the project:
+<iframe src="https://github.com/user-attachments/assets/175dca98-00be-40cb-ae26-524b65142b43" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
 ## Client Side
 
 ### Overview
