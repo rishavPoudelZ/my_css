@@ -7,7 +7,8 @@ The project is structured into two main parts: the client side and the server si
 
 ## Preview Video
 Here is an overview video of the project:
-<iframe src="https://github.com/user-attachments/assets/175dca98-00be-40cb-ae26-524b65142b43" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+[(https://github.com/user-attachments/assets/175dca98-00be-40cb-ae26-524b65142b43)](https://github.com/user-attachments/assets/175dca98-00be-40cb-ae26-524b65142b43)
 
 ## Client Side
 
